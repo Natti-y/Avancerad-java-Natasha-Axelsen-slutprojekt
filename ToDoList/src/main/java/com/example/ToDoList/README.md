@@ -31,7 +31,7 @@ This project is a simple ToDo List application built using Java. It features a *
 
 ### **1. Clone the Repository**
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Natti-y/Avancerad-java-Natasha-Axelsen-slutprojekt>
 cd ToDoList
 ```
 
